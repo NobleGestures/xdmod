@@ -2,8 +2,8 @@
 title: Database Guide
 ---
 
-Open XDMoD uses several MySQL databases.  These will be automatically be
-automatically created by the database section of the `xdmod-setup`
+Open XDMoD uses several MySQL databases.  These will be automatically created 
+by the database section of the `xdmod-setup`
 command.
 
 Manual Setup
